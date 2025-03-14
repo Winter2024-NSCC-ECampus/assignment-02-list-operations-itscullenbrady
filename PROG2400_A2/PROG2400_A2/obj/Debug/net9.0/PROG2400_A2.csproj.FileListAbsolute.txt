@@ -1,0 +1,14 @@
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\bin\Debug\net9.0\PROG2400_A2.exe
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\bin\Debug\net9.0\PROG2400_A2.deps.json
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\bin\Debug\net9.0\PROG2400_A2.runtimeconfig.json
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\bin\Debug\net9.0\PROG2400_A2.dll
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\bin\Debug\net9.0\PROG2400_A2.pdb
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\obj\Debug\net9.0\PROG2400_A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\obj\Debug\net9.0\PROG2400_A2.AssemblyInfoInputs.cache
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\obj\Debug\net9.0\PROG2400_A2.AssemblyInfo.cs
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\obj\Debug\net9.0\PROG2400_A2.csproj.CoreCompileInputs.cache
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\obj\Debug\net9.0\PROG2400_A2.dll
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\obj\Debug\net9.0\refint\PROG2400_A2.dll
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\obj\Debug\net9.0\PROG2400_A2.pdb
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\obj\Debug\net9.0\PROG2400_A2.genruntimeconfig.cache
+C:\Users\culle\OneDrive\Desktop\PROG2400_A2\PROG2400_A2\obj\Debug\net9.0\ref\PROG2400_A2.dll
